@@ -8,4 +8,4 @@
 
 - ### [TadaHrd](https://github.com/TadaHrd) - Creator
 
-- # [Fishbox123](https://github.com/fishbox123) - First person to join
+- ### [Fishbox123](https://github.com/fishbox123) - First person to join
