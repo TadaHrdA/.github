@@ -7,10 +7,10 @@
 
 ## Websites:
 
-- ### [TadaHrd.github.io](https://tadahrd.github.io) - Projects from TadaHrd
+- ### [TadaHrd.github.io](//tadahrd.github.io) - Projects from TadaHrd
 
 ## People:
 
-- ### [TadaHrd](https://github.com/TadaHrd) - Creator
+- ### [TadaHrd](//github.com/TadaHrd) - Creator
 
-- ### [Fishbox123](https://github.com/fishbox123) - First person to join
+- ### [Fishbox123](//github.com/fishbox123) - First person to join
