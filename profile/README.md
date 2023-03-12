@@ -1,7 +1,8 @@
 # TadaHrdA
 
-| Table of contents |
-| Websites
+| Table of contents     |
+| [Websites](#websites) |
+| [People](#people)     |
 
 ## Websites:
 
